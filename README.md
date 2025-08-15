@@ -30,7 +30,7 @@
   <li>Now it should be ready to work with!</li>
   <li>If theres any issue, feel to contact me!</li>
 </ol>
-<h3>Usage INstructions</h3>
+<h3>Usage Instructions</h3>
 <ul>
   <li>Open the Extension</li>
   <li>Type in the name of the website</li>
