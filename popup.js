@@ -1,4 +1,6 @@
 // Block site
+//background.js is all running in the background that actually blocks the site. this just passes the info to the backend. manifest.json is essential to run as a chrome extension.
+//feel free to use this as a template!
 document.getElementById("blockBtn").addEventListener("click", () => {
   const siteName = document.getElementById("site").value.trim();
   if (siteName) {
